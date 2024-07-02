@@ -1,0 +1,207 @@
+[
+    {
+      
+      "bookName": "Pride and Prejudice",
+      "quantity": 10,
+      "rating": "4",
+      "category": "Novel",
+      "description": "A witty comedy of manners that follows the relationships of the Bennet family, particularly that of Elizabeth Bennet and Mr. Darcy.",
+      "date": "2024-05-15",
+      "userId": "",
+      "url": "https://th.bing.com/th/id/OIP.wcZjPkH4FZD5QYi_2kfxxAAAAA?rs=1&pid=ImgDetMain",
+      "Author": "Jane Austen"
+    },
+    {
+      
+      "bookName": "To Kill a Mockingbird",
+      "quantity": 8,
+      "rating": "5",
+      "category": "Drama",
+      "description": "A gripping tale of racial injustice and moral growth.",
+      "date": "2024-05-16",
+      "userId": "",
+      "url": "https://th.bing.com/th/id/OIP.NGofr7d8y6lcAUn2SeXXPgHaLZ?rs=1&pid=ImgDetMain",
+      "Author": "Harper Lee"
+    },
+    {
+      
+      "bookName": "1984",
+      "quantity": 12,
+      "rating": "4",
+      "category": "Sci-Fi",
+      "description": "A dystopian novel about totalitarianism and surveillance.",
+      "date": "2024-05-17",
+      "userId": "",
+      "url": "https://d30a6s96kk7rhm.cloudfront.net/original/readings/978/014/103/9780141036144.jpg",
+      "Author": "George Orwell"
+    },
+    {
+      
+      "bookName": "The Great Gatsby",
+      "quantity": 6,
+      "rating": "4",
+      "category": "Novel",
+      "description": "A classic tale of the Jazz Age.",
+      "date": "2024-05-18",
+      "userId": "",
+      "url": "https://th.bing.com/th/id/R.e7a36747d2af43e6bcf2d8e988ec09d3?rik=WTbWJYmQnThk7Q&pid=ImgRaw&r=0",
+      "Author": "F. Scott Fitzgerald"
+    },
+    {
+      
+      "bookName": "The Catcher in the Rye",
+      "quantity": 9,
+      "rating": "3",
+      "category": "Novel",
+      "description": "A coming-of-age novel that has become a modern classic.",
+      "date": "2024-05-19",
+      "userId": "",
+      "url": "https://th.bing.com/th/id/R.65a7b4365f8854cf5e0889e8da3a6057?rik=oV4HksvcAn7dvw&pid=ImgRaw&r=0",
+      "Author": "J.D. Salinger"
+    },
+    {
+      
+      "bookName": "Lord of the Rings",
+      "quantity": 15,
+      "rating": "5",
+      "category": "Fantasy",
+      "description": "An epic high-fantasy novel.",
+      "date": "2024-05-20",
+      "userId": "",
+      "url": "https://th.bing.com/th/id/R.800a59c55f866d8e6e249eb545258936?rik=a7VD3%2fs%2bMuU41A&pid=ImgRaw&r=0",
+      "Author": "J.R.R. Tolkien"
+    },
+    {
+      
+      "bookName": "Moby-Dick",
+      "quantity": 11,
+      "rating": "4",
+      "category": "Adventure",
+      "description": "An epic tale of obsession and revenge.",
+      "date": "2024-05-21",
+      "userId": "",
+      "url": "https://th.bing.com/th/id/OIP.M7lAD82M2Rj8nI9BZEuHjQHaLH?rs=1&pid=ImgDetMain",
+      "Author": "Herman Melville"
+    },
+    {
+      
+      "bookName": "War and Peace",
+      "quantity": 4,
+      "rating": "5",
+      "category": "Historical Fiction",
+      "description": "A novel by the Russian author Leo Tolstoy.",
+      "date": "2024-05-22",
+      "userId": "",
+      "url": "https://th.bing.com/th/id/OIP.7ky-UrS4KTsOaoTZzHW7AAAAAA?rs=1&pid=ImgDetMain",
+      "Author": "Leo Tolstoy"
+    },
+    {
+      
+      "bookName": "The Picture of Dorian Gray",
+      "quantity": 7,
+      "rating": "5",
+      "category": "Gothic Fiction",
+      "description": "A philosophical novel by Oscar Wilde, first published in 1890.",
+      "date": "2024-05-23",
+      "userId": "",
+      "url": "https://th.bing.com/th/id/R.cdc3cc896c10f50329e1c920ffb6bcf6?rik=%2b6J8hwU3fUPJMA&pid=ImgRaw&r=0",
+      "Author": "Oscar Wilde"
+    },
+    {
+      
+      "bookName": "Frankenstein",
+      "quantity": 6,
+      "rating": "4",
+      "category": "Gothic",
+      "description": "A novel written by English author Mary Shelley.",
+      "date": "2024-05-24",
+      "userId": "",
+      "url": "https://th.bing.com/th/id/OIP.v6K-pRJr25kgakSVpCKEgwHaLE?rs=1&pid=ImgDetMain",
+      "Author": "Mary Shelley"
+    },
+    {
+      
+      "bookName": "Brave New World",
+      "quantity": 8,
+      "rating": "4",
+      "category": "Science Fiction",
+      "description": "A dystopian social science fiction novel by Aldous Huxley.",
+      "date": "2024-05-25",
+      "userId": "",
+      "url": "https://th.bing.com/th/id/R.876f340e9022f81cbaa26930e7120564?rik=YvHB%2b3xb0kp7fQ&pid=ImgRaw&r=0",
+      "Author": "Aldous Huxley"
+    },
+    {
+      
+      "bookName": "The Hobbit",
+      "quantity": 7,
+      "rating": "4",
+      "category": "Fantasy",
+      "description": "A fantasy novel and children's book by J.R.R. Tolkien.",
+      "date": "2024-05-26",
+      "userId": "",
+      "url": "https://image.tmdb.org/t/p/original/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg",
+      "Author": "J.R.R. Tolkien"
+    },
+    {
+      
+      "bookName": "Crime and Punishment",
+      "quantity": 10,
+      "rating": "4",
+      "category": "Psychological Fiction",
+      "description": "A novel by the Russian author Fyodor Dostoevsky.",
+      "date": "2024-05-27",
+      "userId": "",
+      "url": "https://th.bing.com/th/id/R.99f43bbe900ce2273d18fc86c340af69?rik=nNA1iRkTDqwwYw&pid=ImgRaw&r=0",
+      "Author": "Fyodor Dostoevsky"
+    },
+    {
+      
+      "bookName": "One Hundred Years of Solitude",
+      "quantity": 7,
+      "rating": "5",
+      "category": "Magical Realism",
+      "description": "A landmark novel by Colombian author Gabriel García Márquez.",
+      "date": "2024-05-28",
+      "userId": "",
+      "url": "https://th.bing.com/th/id/R.3e15c08e9377cfbd1532656fa0b87b92?rik=OM%2br3ITXPj0pCw&pid=ImgRaw&r=0",
+      "Author": "Gabriel García Márquez"
+    },
+    {
+      
+      "bookName": "The Lord of the Flies",
+      "quantity": 9,
+      "rating": "4",
+      "category": "Allegory",
+      "description": "A novel by Nobel Prize-winning British author William Golding.",
+      "date": "2024-05-29",
+      "userId": "",
+      "url": "https://th.bing.com/th/id/OIP.S51nXWmg2cTqb61ikchhEQHaLC?rs=1&pid=ImgDetMain",
+      "Author": "William Golding"
+    },
+    {
+      
+      "bookName": "Alice's Adventures in Wonderland",
+      "quantity": 12,
+      "rating": "4",
+      "category": "Fantasy",
+      "description": "A novel by Lewis Carroll.",
+      "date": "2024-05-30",
+      "userId": "",
+      "url": "https://th.bing.com/th/id/OIP.LY9t2wczMHiT1mOxKWzG5gAAAA?w=333&h=475&rs=1&pid=ImgDetMain",
+      "Author": "Lewis Carroll"
+    },
+    {
+      
+      "bookName": "The Adventures of Sherlock Holmes",
+      "quantity": 11,
+      "rating": "5",
+      "category": "Mystery",
+      "description": "A collection of twelve short stories by Arthur Conan Doyle.",
+      "date": "2024-05-31",
+      "userId": "",
+      "url": "https://th.bing.com/th/id/R.32f4edd5ecac7a0aa1baac6c171f725a?rik=rOq5rtEt9%2fPXIg&pid=ImgRaw&r=0",
+      "Author": "Arthur Conan Doyle"
+    }
+  ]
+  
